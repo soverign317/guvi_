@@ -1,0 +1,28 @@
+body {
+    background: linear-gradient(to right, #17cb0e, #078830);
+    font-family: "Poppins", sans-serif;
+  }
+  
+  #form {
+    width: 300px;
+    margin: 50px auto 0 auto;
+    padding: 30px;
+    background-color: rgb(253, 253, 253);
+    border-radius: 4px;
+    font-size: 12px;
+  
+    h2 {
+      color: #194e65;
+      text-align: center;
+    }
+  
+    button {
+      padding: 10px;
+      margin-top: 10px;
+      width: 100%;
+      color: rgb(238, 238, 238);
+      background-color: rgb(25, 210, 69);
+      border: none;
+      border-radius: 4px;
+    }
+  }
